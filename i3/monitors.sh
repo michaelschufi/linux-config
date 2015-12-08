@@ -1,0 +1,1 @@
+xrandr --output HDMI1 --auto --output VGA1 --auto --right-of HDMI1
